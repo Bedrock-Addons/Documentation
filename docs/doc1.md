@@ -4,4 +4,4 @@ title: Introduction
 sidebar_label: Introduction
 
 ---
-Welcome to Universal Addons Project, software to make content delivery to mobile devices at scale as easy as filling out a form.
+Bedrock Addons is an open-source content platform to make delivering content to mobile devices at scale as easy as filling out a form.
