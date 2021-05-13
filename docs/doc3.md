@@ -3,9 +3,11 @@ slug: doc3
 title: Installation
 
 ---
-## Installing on Linux
+:::note  
+This assumes you understand Linux, Apache, how to secure a system, and have a server running Ubuntu 20.04 already set up.  
+:::
 
-For this, I will explain how to install on a VPS running Ubuntu 20.04. This requires some understanding of Linux, Apache, and SQL.
+## Installing on Linux
 
 1. Start up a server with atleast 500MB of memory, and 8GB of storage.
 2. Install a LAMP stack (Linux, Apache, MySQL, and PHP) and configure it.
