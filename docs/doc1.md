@@ -6,12 +6,10 @@ sidebar_label: Introduction
 ---
 Bedrock Addons is an open-source content platform to make delivering content to mobile devices at scale as easy as filling out a form.
 
-:::tip
-
+:::note  
 Use the **\[Fast Track\](introduction.md#fast-track)** to understand Docusaurus in **5 minutes ⏱**!
 
-Use **\[new.docusaurus.io\]([https://new.docusaurus.io](https://new.docusaurus.io "https://new.docusaurus.io"))** to test Docusaurus immediately in your browser!
-
+Use **\[new.docusaurus.io\]([https://new.docusaurus.io](https://new.docusaurus.io "https://new.docusaurus.io"))** to test Docusaurus immediately in your browser!  
 :::
 
 ### Frequently Asked Questions
@@ -20,4 +18,6 @@ Use **\[new.docusaurus.io\]([https://new.docusaurus.io](https://new.docusaurus.i
 
 **Is it secure?** Probably not, but I haven't done many security tests. I mostly just update code on the production server directly and hope no issues arise.
 
-> As a word of caution, isolate the software on it's own virtual machine, and then isolate the VM on your network, do not run it alongside other applications to prevent cross-contamination of data.
+:::note  
+As a word of caution, isolate the software on it's own virtual machine, and then isolate the VM on your network, do not run it alongside other applications to prevent cross-contamination of data.  
+:::
