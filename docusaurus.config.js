@@ -1,14 +1,14 @@
 module.exports = {
-  title: 'My Site',
+  title: 'Universal Addons Platform',
   tagline: 'The tagline of my site',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
+  organizationName: 'addons', // Usually your GitHub org/user name.
   projectName: 'docusaurus', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'Universal Addons Platform',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
@@ -69,13 +69,13 @@ module.exports = {
               to: 'blog',
             },
             {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              label: 'GitLab',
+              href: 'https://gitlab.com/bedrock-addons/',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Du Cheng. Built with Docusaurus.`,
     },
   },
   presets: [
