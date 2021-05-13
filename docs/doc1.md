@@ -19,5 +19,5 @@ Use **\[new.docusaurus.io\]([https://new.docusaurus.io](https://new.docusaurus.i
 **Is it secure?** Probably not, but I haven't done many security tests. I mostly just update code on the production server directly and hope no issues arise.
 
 :::caution  
-Due to security concerns, it is higly recommended that you isolate the software on it's own virtual machine to prevent potential data breaches and security issues.  
+There's probably lots of vulnerabilities that I haven't even considered, so isolate it on it's own virtual machine, and implement good network security.  
 :::
