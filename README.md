@@ -1,1 +1,1 @@
-Documentation website starter built using [Docusaurus 2](https://v2.docusaurus.io/), a modern static website generator.
+Work in progress documentation for Bedrock Addons and UAP
